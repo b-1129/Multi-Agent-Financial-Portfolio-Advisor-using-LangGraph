@@ -1,0 +1,9 @@
+langchain
+langchain_community
+python-dotenv
+langgraph
+langchain-openai
+langchain-groq
+langgraph-checkpoint-sqlite
+chromadb
+langchain-experimental
